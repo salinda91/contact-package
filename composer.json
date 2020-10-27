@@ -1,0 +1,19 @@
+{
+    "name": "dssoft/contact",
+    "description": "Simple contact form, user send inquiry via form and admin will get email and save in DB",
+    "license": "MIT",
+    "type":"library",
+    "authors": [
+        {
+            "name": "Salinda Jayawardana",
+            "email": "jayawardanasalinda@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dssoft\\Contact\\": "src/"
+        }
+    }
+}
